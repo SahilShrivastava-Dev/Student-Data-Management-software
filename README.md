@@ -29,8 +29,4 @@ Standard python libraries such as csv, tempcolor, prettytable
 # Installation and running through GitBash or CMD
 git clone https://github.com/SahilShrivastava-Dev/Student-Data-Management-software
 
-cd Student-Data-Management-software
 
-pip3 install -r requirements.txt
-
-python3 main.py
