@@ -26,11 +26,11 @@ class smb:
 	ARROW = fontcolor.cyan(" > ")
 
 banr = '''
-            		|||||| |||||| |||||| |||||| Association
-			||  || ||     ||     ||		Of
-			|||||| ||     |||||| |||||| Computer
-			||  || ||     ||         || Engineering
-			||  || |||||| |||||| |||||| Students
+		|||||||| |||||||| ||||||||  Computer
+		||       ||          ||     Society 
+		||       ||||||||    ||       Of
+		||             ||    ||      India
+		|||||||| |||||||| ||||||||    DIT
           '''
 
 def banner():
