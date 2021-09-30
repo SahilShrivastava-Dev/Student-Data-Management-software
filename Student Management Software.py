@@ -15,7 +15,7 @@ class fontcolor():
 	def red(string):
 		return colored(string, "red", attrs=['bold'])
 	def blue(string):
-		return colored(string, "blue", attrs=['bold'])
+		return colored(string,"blue", attrs=['bold'])
 
 #smb ==> symbols
 class smb:
